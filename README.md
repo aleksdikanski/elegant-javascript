@@ -1,6 +1,6 @@
 # Elegant Javascript
 
-Given the, at the time, craze for functional programming in web development (redux, immutablejs, RxJS, etc), this is a likewise crazy project to compare these approaches with a pure Object-Oriented approach as described by [Yegor Bugayenko](www.yegor256.com Yegor Bugayenko Homepage) in his [Elegant Objects](http://www.yegor256.com/elegant-objects.html) series.
+Given the, at the time, craze for functional programming in web development (redux, immutablejs, RxJS, etc), this is a likewise crazy project to compare these approaches with a pure Object-Oriented approach as described by [Yegor Bugayenko](http://www.yegor256.com Yegor Bugayenko Homepage) in his [Elegant Objects](http://www.yegor256.com/elegant-objects.html) series.
 
 The main difference to Elegant Objects will be, that this is Javascript and a Web App and not Java in the Backend. Also worth mentioning: I do not have much experience as a frontend engineer/Web developer. Just an unsatisfied urge find other solutions. As I said, crazy stuff ...
 
